@@ -21,15 +21,15 @@
 ---
 
 ## 🚀 Projects Highlights
-- 🤖 AI Chatbot for Business Automation  
-- 🌍 Boutique Travel Planning Portal  
-- 🧠 Sign Language Detection System  
-- 💰 Fundraising Web Platform  
+- 🛒 MERN E-Commerce Web Application  
+- 🌐 Full Stack Web Development Projects  
+- 💻 Frontend UI Projects using React  
+- 🧠 Data Structures & Algorithms Practice  
 
 ---
 
 ## ⚡ Fun Fact
-> I love combining **AI + Backend + Real-world problem solving**  
+> I love building **real-world full stack applications and solving DSA problems**
 
 ---
 
