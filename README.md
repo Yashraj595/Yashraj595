@@ -1,23 +1,22 @@
-
 ---
 
 ## 📊 GitHub Stats
-![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhail-8800&show_icons=true&theme=radical)
+![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj595&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Suhail-8800&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Yashraj595&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suhail-8800&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashraj595&theme=react-dark)
 
 ---
 
 ## 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhail-8800&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj595&layout=compact&theme=radical)
 
 ---
 
@@ -35,11 +34,11 @@
 ---
 
 ## ⭐ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Suhail-8800&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Yashraj595&color=blue)
 
 ---
 
 ## 💡 Tip
-- Create a repository named **Suhail-8800**
+- Create a repository named **Yashraj595**
 - Add this file as `README.md`
 - Push it to GitHub → It will appear on your profile
