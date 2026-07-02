@@ -8,9 +8,9 @@ I'm passionate about building scalable web applications, solving Data Structures
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username
-- 📧 **Email:** your.email@example.com
-- 📱 **Phone:** +91 XXXXXXXXXX
+- 💼 **LinkedIn:** https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/
+- 📧 **Email:** ys2391356@gmail.com
+- 📱 **Phone:** +91 8462010843
 - 💻 **GitHub:** https://github.com/Yashraj595
 
 ---
