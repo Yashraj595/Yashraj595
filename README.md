@@ -103,8 +103,8 @@
 -  Master Full Stack Development
 -  Learn System Design
 -  Build Production-Level Projects
--  Contribute to Open Source
--  Crack Google / Microsoft / Amazon
+  
+   
 
 </td>
 </tr>
