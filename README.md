@@ -7,8 +7,7 @@
 
 <p align="center">
   I'm passionate about building scalable web applications, solving Data Structures & Algorithms
-  problems, and continuously learning new technologies. My goal is to become a Software Engineer
-  at a top product-based company.
+  problems, and continuously learning new technologies. 
 </p>
 
 <br>
@@ -101,12 +100,11 @@
 </td>
 <td valign="top" width="50%">
 
-- [ ] Solve 1000+ DSA Problems
-- [ ] Master Full Stack Development
-- [ ] Learn System Design
-- [ ] Build Production-Level Projects
-- [ ] Contribute to Open Source
-- [ ] Crack Google / Microsoft / Amazon
+-  Master Full Stack Development
+-  Learn System Design
+-  Build Production-Level Projects
+-  Contribute to Open Source
+-  Crack Google / Microsoft / Amazon
 
 </td>
 </tr>
