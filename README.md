@@ -1,92 +1,94 @@
-# Hi 👋, I'm Yashraj Singh Thakur
+<h1 align="center">Hi 👋, I'm Yashraj Singh Thakur</h1>
+<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Web Developer | DSA Enthusiast</h3>
 
-## 🚀 Aspiring Software Engineer | Full Stack Web Developer | DSA Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Solving+DSA+problems+every+day;Preparing+for+Google+%2F+Microsoft+%2F+Amazon;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+</p>
 
-I'm passionate about building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning new technologies. My goal is to become a Software Engineer at a top product-based company.
+<p align="center">
+  I'm passionate about building scalable web applications, solving Data Structures & Algorithms
+  problems, and continuously learning new technologies. My goal is to become a Software Engineer
+  at a top product-based company.
+</p>
 
----
+<br>
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/
-- 📧 **Email:** ys2391356@gmail.com
-- 📱 **Phone:** +91 8462010843
-- 💻 **GitHub:** https://github.com/Yashraj595
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ys2391356@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Yashraj595" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yashrajsinghthakur520/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java
-- JavaScript
-- SQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+</p>
 
-### 🌐 Frontend Development
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React.js
+<div align="center">
 
-### ⚙️ Backend Development
-- Node.js
-- Express.js
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · JavaScript · SQL |
+| **Frontend** | HTML5 · CSS3 · JavaScript (ES6+) · Bootstrap · React.js |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB · MySQL |
+| **Tools** | Git · GitHub · VS Code · Postman · MongoDB Compass |
 
-### 🗄️ Database
-- MongoDB
-- MySQL
+</div>
 
-### 🛠️ Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
-- MongoDB Compass
+<br>
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashraj595&show_icons=true&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj595&layout=compact&theme=radical&hide_border=true" width="49%" />
+</p>
 
-![Yashraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashraj595&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Yashraj595&theme=radical&hide_border=true" width="70%" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashraj595&theme=react-dark" width="100%" />
+</p>
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Yashraj595&theme=radical&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yashraj595&theme=react-dark)
-
----
-
-## 🏆 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj595&layout=compact&theme=radical&hide_border=true)
-
----
+<br>
 
 ## 🚀 Featured Projects
 
-### 🛒 MERN E-Commerce Web Application
-A complete full-stack e-commerce platform with authentication, product management, shopping cart, and secure backend APIs.
+<div align="center">
 
-### 🌍 Travel & Stay Web Application
-A MERN-based travel booking platform inspired by Airbnb with user authentication and property listings.
+| Project | Description |
+|---|---|
+| 🛒 **MERN E-Commerce Web Application** | A complete full-stack e-commerce platform with authentication, product management, shopping cart, and secure backend APIs. |
+| 🌍 **Travel & Stay Web Application** | A MERN-based travel booking platform inspired by Airbnb, with user authentication and property listings. |
+| 💬 **Full Stack Web Applications** | Responsive, scalable applications built with React, Node.js, Express.js, and MongoDB. |
+| 🧠 **Data Structures & Algorithms** | Regularly solving DSA problems in Java to strengthen problem-solving skills and prepare for technical interviews. |
 
-### 💬 Full Stack Web Applications
-Built responsive and scalable applications using React, Node.js, Express.js, and MongoDB.
+</div>
 
-### 🧠 Data Structures & Algorithms
-Regularly solving DSA problems in Java to strengthen problem-solving skills and prepare for technical interviews.
+<br>
 
----
+## 📚 Currently Learning &nbsp;&nbsp;|&nbsp;&nbsp; 🎯 2026 Goals
 
-## 📚 Currently Learning
+<table>
+<tr>
+<td valign="top" width="50%">
 
 - Advanced Data Structures & Algorithms
 - System Design
@@ -96,33 +98,34 @@ Regularly solving DSA problems in Java to strengthen problem-solving skills and 
 - Object-Oriented Programming
 - Software Engineering
 
----
+</td>
+<td valign="top" width="50%">
 
-## 🎯 2026 Goals
+- [ ] Solve 1000+ DSA Problems
+- [ ] Master Full Stack Development
+- [ ] Learn System Design
+- [ ] Build Production-Level Projects
+- [ ] Contribute to Open Source
+- [ ] Crack Google / Microsoft / Amazon
 
-- ✅ Solve 1000+ DSA Problems
-- ✅ Master Full Stack Development
-- ✅ Learn System Design
-- ✅ Build Production-Level Projects
-- ✅ Contribute to Open Source
-- ✅ Crack Google / Microsoft / Amazon
+</td>
+</tr>
+</table>
 
----
+<br>
 
 ## ⚡ Fun Fact
 
 > I enjoy building real-world full-stack applications, solving coding challenges, and continuously improving my development skills.
 
----
+<br>
 
-## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yashraj595&color=6C63FF&style=flat" alt="Profile Views" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yashraj595&color=blue)
-
----
-
-## ⭐ Thanks for Visiting!
-
-If you like my work, consider giving a ⭐ to my repositories and don't forget to connect with me on LinkedIn.
-
-Happy Coding! 🚀
+<h3 align="center">⭐ Thanks for Visiting!</h3>
+<p align="center">
+  If you like my work, consider giving a ⭐ to my repositories, and don't forget to connect with me on LinkedIn.<br>
+  Happy Coding! 🚀
+</p>
