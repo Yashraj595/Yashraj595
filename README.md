@@ -15,22 +15,21 @@
 ## 📫 Connect with Me
 
 <p align="center">
-   
- <button onclick="window.open('https://yashrajsinghthakur.vercel.app/', '_blank')" style="
+<a href="https://yashrajsinghthakur.vercel.app/" target="_blank" style="
     display: inline-block;
     padding: 10px 30px;
-    background-color: #0066CC;
-    color: white;
+    background-color: #0066CC; /* Image wala Blue color (Crimson chahiye toh 'crimson' likh dein) */
+    color: #ffffff;
+    text-decoration: none;
     font-family: Arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
-    border: none;
     border-radius: 4px;
-    cursor: pointer;
+    text-align: center;
 ">
   Portfolio
-</button>
+</a>
   
   <a href="https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
