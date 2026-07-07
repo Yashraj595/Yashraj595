@@ -16,7 +16,8 @@
 
 <p align="center">
    
-   <a href="https://yashrajsinghthakur.vercel.app/" target="_blank" style="
+   <a href="https://yashrajsinghthakur.vercel.app/" target="_blank" >
+  <button style="
     display: inline-block;
     padding: 10px 30px;
     background-color: crimson;
@@ -29,8 +30,7 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-">
-  Portfolio
+"> Portfolio </button>
 </a>
 
   
