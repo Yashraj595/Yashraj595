@@ -11,40 +11,30 @@
 </p>
 
 <br>
-
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="https://yashrajsinghthakur.vercel.app/" target="_blank" style="
-    display: inline-block;
-    padding: 10px 30px;
-    background-color: #0066CC; /* Image wala Blue color (Crimson chahiye toh 'crimson' likh dein) */
-    color: #ffffff;
-    text-decoration: none;
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    font-weight: bold;
-    text-transform: uppercase;
-    border-radius: 4px;
-    text-align: center;
-">
-  Portfolio
-</a>
-  
+   <a href="https://yashrajsinghthakur.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ys2391356@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yashraj595" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/yashrajsinghthakur520/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
+  <a href="mailto:ys2391356@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Yashraj595" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/yashrajsinghthakur520/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+
+ 
+</p>
 <br>
 
 ## 🛠️ Tech Stack
