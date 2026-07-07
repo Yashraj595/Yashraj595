@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | Full Stack Web Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Solving+DSA+problems+every+day;Preparing+for+Google+%2F+Microsoft+%2F+Amazon;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Open+to+Internships+%26+Collaboration" alt="Typing SVG" />
 </p>
 
 <p align="center">
