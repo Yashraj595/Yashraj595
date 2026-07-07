@@ -16,13 +16,11 @@
 
 <p align="center">
    
-   <a href="https://yashrajsinghthakur.vercel.app/" target="_blank" >
-  <button style="
+ <button onclick="window.open('https://yashrajsinghthakur.vercel.app/', '_blank')" style="
     display: inline-block;
     padding: 10px 30px;
-    background-color: crimson;
+    background-color: #0066CC;
     color: white;
-    text-decoration: none;
     font-family: Arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
@@ -30,9 +28,9 @@
     border: none;
     border-radius: 4px;
     cursor: pointer;
-"> Portfolio </button>
-</a>
-
+">
+  Portfolio
+</button>
   
   <a href="https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
