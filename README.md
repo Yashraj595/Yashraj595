@@ -15,6 +15,11 @@
 ## 📫 Connect with Me
 
 <p align="center">
+   <a href="https://yashrajsinghthakur.vercel.app/" target="_blank">
+   <a href="#portfolio" style="display: inline-block; padding: 12px 28px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px; font-weight: 600; color: #111111; text-decoration: none; border: 2px solid #111111; border-radius: 4px; transition: all 0.3s ease;">
+  View Portfolio
+</a>
+  </a>
   <a href="https://www.linkedin.com/in/yashraj-singh-thakur-7b3b05331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
